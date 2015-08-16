@@ -6,13 +6,13 @@
 //  Copyright (c) 2015 FattGuy. All rights reserved.
 //
 
-#import "AppDelegate.h"
+#import "USAppDelegate.h"
 
-@interface AppDelegate ()
+@interface USAppDelegate ()
 
 @end
 
-@implementation AppDelegate
+@implementation USAppDelegate
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {

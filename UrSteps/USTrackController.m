@@ -6,13 +6,13 @@
 //  Copyright (c) 2015 FattGuy. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "USTrackController.h"
 
-@interface ViewController ()
+@interface USTrackController ()
 
 @end
 
-@implementation ViewController
+@implementation USTrackController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
